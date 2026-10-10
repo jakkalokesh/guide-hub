@@ -45,7 +45,7 @@ export default function Page() {
             <h1 className="max-w-xl text-balance font-serif text-4xl leading-[1.05] tracking-[-0.04em] sm:text-6xl">
               Tools That Got Me Through College
             </h1>
-            <p className="mt-4 text-base text-blue-100 sm:text-lg">5 free tools I use every week.</p>
+            <p className="mt-4 text-base text-blue-100 sm:text-lg">5 tools I use every week.</p>
             <div className="mt-8 grid gap-5 border-t border-white/20 pt-6 sm:grid-cols-2 sm:gap-10">
               <div>
                 <p className="text-xs font-semibold uppercase tracking-[0.18em] text-blue-200">Who it’s for</p>
